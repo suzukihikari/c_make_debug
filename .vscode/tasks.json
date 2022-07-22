@@ -1,0 +1,17 @@
+{
+    "tasks": [
+        {
+            "label": "C/C++: gcc.exe アクティブなファイルのビルド",
+            "type": "process",
+            "command": "make",
+            "problemMatcher": [
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "デバッガーによって生成されたタスク。"
+        }
+    ],
+    "version": "2.0.0"
+}
